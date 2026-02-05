@@ -26,16 +26,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal7-alpha&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komal7-alpha&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=tokyonight&utcOffset=5.5" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal7-alpha&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komal7-alpha&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=dracula&utcOffset=5.5" width="32%" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komal7-alpha&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komal7-alpha&theme=dracula)
 
 ---
 
