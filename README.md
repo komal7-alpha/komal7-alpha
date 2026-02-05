@@ -31,10 +31,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=tokyonight&utcOffset=5.5" width="32%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=komal7-alpha&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
