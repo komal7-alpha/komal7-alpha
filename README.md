@@ -1,6 +1,7 @@
 # Hi 👋 I'm Komal
 
 📊 Data Analyst | Python | SQL | Excel | Power BI | Data Analysis & Automation
+
 🚀 Turning Data into Business Insights
 
 ---
