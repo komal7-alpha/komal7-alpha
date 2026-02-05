@@ -3,13 +3,12 @@
 📊 Data Analyst | Python | SQL | Excel | Power BI | Data Analysis & Automation
 
 🚀 Turning Data into Business Insights
-
 ---
 
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komal7-alpha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-komal7/)
 
 ---
 
@@ -29,6 +28,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal7-alpha&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komal7-alpha&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=tokyonight&utcOffset=5.5" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal7-alpha&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
