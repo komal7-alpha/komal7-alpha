@@ -8,6 +8,7 @@
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komal7-alpha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ---
 
@@ -23,15 +24,23 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal7-alpha&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komal7-alpha&theme=tokyonight)
-
-![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=tokyonight&utcOffset=5.5)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal7-alpha&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komal7-alpha&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=tokyonight&utcOffset=5.5" width="32%" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komal7-alpha&theme=tokyo-night)
+
+---
+
+## 📌 About Me
+
+- 📍 Data Analyst with hands-on industry experience  
+- ⚙️ Strong in automation, reporting & data validation  
+- 📊 Focused on building reliable data pipelines  
+- 🚀 Continuous learner
