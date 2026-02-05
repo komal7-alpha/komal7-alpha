@@ -1,7 +1,7 @@
 # Hi 👋 I'm Komal
 
-💻 Learning Programming | Building My Career  
-🚀 Focused on Growth
+📊 Data Analyst | Python | SQL | Excel | Power BI | Data Analysis & Automation
+🚀 Turning Data into Business Insights
 
 ---
 
@@ -15,16 +15,20 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=komal7-alpha&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komal7-alpha&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=komal7-alpha&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komal7-alpha&theme=tokyonight)
+
+---
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=komal7-alpha&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komal7-alpha&theme=tokyo-night)
