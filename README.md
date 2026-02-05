@@ -3,6 +3,7 @@
 📊 Data Analyst | Python | SQL | Excel | Power BI | Data Analysis & Automation
 
 🚀 Turning Data into Business Insights
+
 ---
 
 ## 🌐 Socials
@@ -31,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal7-alpha&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=komal7-alpha&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
