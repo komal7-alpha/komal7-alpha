@@ -23,9 +23,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komal7-alpha&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komal7-alpha&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komal7-alpha&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komal7-alpha&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
