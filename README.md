@@ -23,10 +23,11 @@
 
 ## 📊 GitHub Stats
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal7-alpha&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komal7-alpha&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komal7-alpha&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komal7-alpha&theme=tokyonight&cache_seconds=1800)
+![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=tokyonight&utcOffset=5.5)
 
 
 ---
