@@ -27,9 +27,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal7-alpha&theme=highcontrast" width="32%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal7-alpha&layout=compact&langs_count=6&theme=highcontrast" width="32%" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komal7-alpha&theme=highcontrast" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komal7-alpha&theme=highcontrast&utcOffset=5.5" width="32%" />
 </p>
 
